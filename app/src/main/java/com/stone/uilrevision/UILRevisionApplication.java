@@ -2,7 +2,7 @@ package com.stone.uilrevision;
 
 import android.app.Application;
 
-import com.stone.uilrevision.activity.util.ImageLoaderWrapper;
+import com.stone.uilrevision.util.ImageLoaderWrapper;
 
 /**
  * desc   :

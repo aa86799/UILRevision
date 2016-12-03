@@ -1,4 +1,4 @@
-package com.stone.uilrevision.activity.util;
+package com.stone.uilrevision.util;
 
 import android.app.ActivityManager;
 import android.content.Context;
